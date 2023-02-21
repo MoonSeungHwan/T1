@@ -9,3 +9,4 @@ text = pytesseract.image_to_string(image, lang='eng')
 
 # 추출된 문자 출력
 print('Car number:', text)
+print("hello")
